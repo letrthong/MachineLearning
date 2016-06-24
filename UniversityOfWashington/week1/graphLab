@@ -1,0 +1,12 @@
+OS 64-bit
+
+graphLab
+https://dato.com/learn/userguide/index.html#
+
+other pages
+http://pandas.pydata.org/
+http://scikit-learn.org/stable/
+
+conda update pip
+pip install --upgrade --no-cache-dir https://get.graphlab.com/GraphLab-Create/1.10.1/xxxxxx
+conda install ipython-notebook
